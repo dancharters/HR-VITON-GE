@@ -1,0 +1,8 @@
+RGB: (0, 0, 254) -> Blue: Face
+RGB: (85, 51, 0) -> Brown: Neck
+RGB: (254, 0, 0) -> Red: Hair
+RGB: (254, 85, 0) -> Orange: Top Garment
+RGB: (0, 254, 254) -> Cyan: Right arm
+RGB: (0, 0, 0) -> Black: Nothing
+RGB: (0, 85, 85) -> Bluey Green: Bottom garment
+RGB: (51, 169, 220) -> Blue Cyan: Left arm

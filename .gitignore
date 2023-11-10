@@ -1,0 +1,61 @@
+# Build and Release Folders
+bin-debug/
+bin-release/
+[Oo]bj/
+[Bb]in/
+
+# Other files and folders
+.settings/
+.idea/
+.vscode/
+__pycache__/
+
+# Executables
+*.swf
+*.air
+*.ipa
+*.apk
+
+# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
+# should NOT be excluded as they contain compiler settings and other important
+# information for Eclipse / Flash Builder.
+
+# Ignore the data folder
+data/
+
+# Ignore the files created from latex
+**/*.aux
+**/*.bbl
+**/*.blg
+**/*.fdb_latexmk
+**/*.fls
+**/*.lof
+**/*.log
+**/*.out
+**/*.synctex.gz
+**/*.toc
+**/*.lot
+
+# Ignore images
+*.jpg
+*.png
+!eda_output_data/garment_cluster_samples/*.jpg
+!eda_output_data/garment_cluster_samples/*.png
+
+# Ignore ZIP files
+**/*.zip
+
+# Ignore R Project User file
+.Rproj.user
+
+# Ignore Google Drive stuff
+*.ini
+**/*.ini
+
+# Ignore pth files
+*.pth
+**/*.pth
+
+# Ignore DS_Store
+*.DS_Store
+**/*.DS_Store
